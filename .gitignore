@@ -1,0 +1,7 @@
+*.net
+*.FCStd*
+*-cache.lib*
+*.kicad_pcb-bak
+sym-lib-table
+*.step
+*.bak
